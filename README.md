@@ -10,7 +10,11 @@ pkg install git
 pkg install bc
 pkg install python2
 cd Kalkulathor
-sh ngitung.sh
+sh download.sh
+```
+# Cara Instan
+```
+sh instan.sh
 ```
 # Login
 ```
