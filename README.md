@@ -1,5 +1,6 @@
 # awal_awal_menggunakan_termux
-cocok untuk kamu yang pertama kali menggunakan termux
+cocok untuk kamu yang pertama kali menggunakan termux 
+# DALAM FASE PENGEMBANGAN TERIMAKASIH 
 
 # Cara Install
 ```
